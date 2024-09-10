@@ -1,6 +1,6 @@
 # Phlex VC Repro
 
-This project is a mostly empty Rails app that reproduces an issue wherein a Phlex component cannot render a ViewComponent that contains a slot.
+This project is a mostly empty Rails app that reproduces an issue wherein a Phlex component cannot render a ViewComponent that contains a slot. A Discord thread exists to discuss this issue: https://discord.com/channels/1082611227827638303/1283019153816420394
 
 ## Getting Started
 
